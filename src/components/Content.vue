@@ -1,5 +1,14 @@
 <template>
   <div class="main" data-spy="scroll" data-target="#navbarResponsive">
+    <loading
+      :active.sync="isLoading"
+      :can-cancel="false"
+      loader="dots"
+      :is-full-page="fullPage"
+      :height="height"
+      :width="width"
+      background-color="#6b6969"
+    ></loading>
     <!-- Start Home Section-->
     <div id="home">
       <!-- Navigation Bar-->
@@ -7,7 +16,8 @@
         <a class="navbar-logo" href="#">
           <img
             class="logo"
-            src="@/assets/pics/logo.jpg"
+            src="@/assets/pics/logo1.png"
+            style="width:60px; height:50px"
             alt="logo"
           />
         </a>
@@ -64,12 +74,12 @@
           <!-- Slide 1-->
           <div
             class="carousel-item active"
-            style="background-image: url(https://images.pexels.com/photos/2952204/pexels-photo-2952204.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);"
+            :style="{'background-image':'url('+ require('../assets/pics/img009.png') + ')','background-size':'contain'}"
           >
             <div class="carousel-caption ">
-              <h1>Welcome To <br />Charming Fashion</h1>
-              <h3>Everything fashion and More</h3>
-              <a class="btn-lg" href="#project">Click for More</a>
+              <h1>Welcome To <br />Charming Fascinators</h1>
+              <h3>Everything Millinery and More</h3>
+              <a class="btn-lg" href="https://instagram.com/charming_fascinators?igshid=vu79aab7ur2w">Click for More</a>
             </div>
           </div>
           <!-- Slide 2-->
@@ -90,7 +100,7 @@
             class="carousel-four"
             style="background-image: url(https://images.pexels.com/photos/1436328/pexels-photo-1436328.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);"
           ></div>
-        </div>
+        </div> 
         <!-- End of Carousel Inner-->
 
         <!-- Prev and Next Buttons-->
@@ -112,8 +122,8 @@
           <span class="carousel-control-next-icon" aria-hidden="true"></span>
         </a>
       </div>
-     -->
-      <!-- End of Slide show-->
+     
+      !-- End of Slide show-->
     </div>
 
     <!--End Home Section-->
@@ -121,11 +131,11 @@
     <!--Start Project Section-->
     <div id="project" class="offset">
       <div class="col-12 narrow text-center">
-        <h1>Charming Fashion</h1>
-        <p class="lead">African fashion showcase</p>
+        <h1>Charming Fascinators</h1>
+        <p class="lead">Choose from our wide range of hats, beaded tiaras, hair bands etc.</p>
         <a
           class="btn btn-secondary btn-md"
-          href="https://www.pexels.com/search/african%20fashion/"
+          href="https://instagram.com/charming_fascinators?igshid=vu79aab7ur2w"
           target="_blank"
           >Check it out. It's Free!!!</a
         >
@@ -145,11 +155,11 @@
           <div class="col-sm-4">
             <div class="portfolio">
               <a
-                href="https://images.pexels.com/photos/3276685/pexels-photo-3276685.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+                href="/img/img08.312ccb8b.jpeg"
                 target="_parent"
               >
                 <img
-                  src="https://images.pexels.com/photos/3276685/pexels-photo-3276685.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+                  src="../assets/pics/img08.jpeg"
                   alt="sample"
                 />
               </a>
@@ -159,11 +169,11 @@
           <div class="col-sm-4">
             <div class="portfolio">
               <a
-                href="https://images.pexels.com/photos/949671/pexels-photo-949671.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+                href="/img/img03.02f00ab6.jpeg"
                 target="_parent"
               >
                 <img
-                  src="https://images.pexels.com/photos/949671/pexels-photo-949671.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+                  src="../assets/pics/img03.jpeg"
                   alt="sample"
                 />
               </a>
@@ -173,11 +183,11 @@
           <div class="col-sm-4">
             <div class="portfolio">
               <a
-                href="https://images.pexels.com/photos/2170387/pexels-photo-2170387.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+                href="/img/img04.e32c5b89.jpeg"
                 target="_parent"
               >
                 <img
-                  src="https://images.pexels.com/photos/2170387/pexels-photo-2170387.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+                  src="../assets/pics/img04.jpeg"
                   alt="sample"
                 />
               </a>
@@ -187,11 +197,11 @@
           <div class="col-sm-4">
             <div class="portfolio">
               <a
-                href="https://images.pexels.com/photos/3195980/pexels-photo-3195980.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+                href="/img/img1.af9c3a7b.jpeg"
                 target="_parent"
               >
                 <img
-                  src="https://images.pexels.com/photos/3195980/pexels-photo-3195980.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+                  src="../assets/pics/img1.jpeg"
                   alt="sample"
                 />
               </a>
@@ -201,11 +211,11 @@
           <div class="col-sm-4">
             <div class="portfolio">
               <a
-                href="https://images.pexels.com/photos/2994574/pexels-photo-2994574.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+                href="/img/img-6.bd3e0c06.jpeg"
                 target="_parent"
               >
                 <img
-                  src="https://images.pexels.com/photos/2994574/pexels-photo-2994574.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+                  src="../assets/pics/img-6.jpeg"
                   alt="sample"
                 />
               </a>
@@ -215,11 +225,11 @@
           <div class="col-sm-4">
             <div class="portfolio">
               <a
-                href="https://images.pexels.com/photos/908310/pexels-photo-908310.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+                href="/img/img09.86725611.jpeg"
                 target="_parent"
               >
                 <img
-                  src="https://images.pexels.com/photos/908310/pexels-photo-908310.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+                  src="../assets/pics/img09.jpeg"
                   alt="sample"
                 />
               </a>
@@ -229,11 +239,11 @@
           <div class="col-sm-4">
             <div class="portfolio">
               <a
-                href="https://images.pexels.com/photos/952629/pexels-photo-952629.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+                href="/img/img07.15e30708.jpeg"
                 target="_parent"
               >
                 <img
-                  src="https://images.pexels.com/photos/952629/pexels-photo-952629.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+                  src="../assets/pics/img07.jpeg"
                   alt="sample"
                 />
               </a>
@@ -243,11 +253,11 @@
           <div class="col-sm-4">
             <div class="portfolio">
               <a
-                href="https://images.pexels.com/photos/2873674/pexels-photo-2873674.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+                href="/img/img3.d647625a.jpeg"
                 target="_parent"
               >
                 <img
-                  src="https://images.pexels.com/photos/2873674/pexels-photo-2873674.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+                  src="../assets/pics/img3.jpeg"
                   alt="sample"
                 />
               </a>
@@ -257,11 +267,11 @@
           <div class="col-sm-4">
             <div class="portfolio">
               <a
-                href="https://images.pexels.com/photos/2562497/pexels-photo-2562497.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+                href="/img/img02.65c1fbac.jpeg"
                 target="_parent"
               >
                 <img
-                  src="https://images.pexels.com/photos/2562497/pexels-photo-2562497.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+                  src="../assets/pics/img02.jpeg"
                   alt="sample"
                 />
               </a>
@@ -273,7 +283,7 @@
               <p class="lead">Want to order any of our products?</p>
               <a
                 class="btn btn-secondary btn-md"
-                href="https://www.google.com"
+                href="https://instagram.com/charming_fascinators?igshid=vu79aab7ur2w"
                 target="_blank"
                 >Products</a
               >
@@ -299,12 +309,12 @@
           <div class="card text-center">
             <img
               class="card-img-top"
-              src="https://images.pexels.com/photos/2395921/pexels-photo-2395921.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+              src="../assets/pics/img-2.jpeg"
               alt="dress"
             />
             <div class="card-body">
-              <h4>Lady in beautiful dress</h4>
-              <p>If you like what you see, call us now</p>
+              <h4>Beautiful fascinator for all occasions</h4>
+              <p>Place your order now</p>
             </div>
           </div>
         </div>
@@ -313,12 +323,12 @@
           <div class="card text-center">
             <img
               class="card-img-top"
-              src="https://images.pexels.com/photos/2704172/pexels-photo-2704172.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+              src="../assets/pics/img2.jpeg"
               alt="dress"
             />
             <div class="card-body">
-              <h4>Lady in beautiful yellow dress</h4>
-              <p>If you like what you see, contact at us now</p>
+              <h4>Lady in beautiful fascinator</h4>
+              <p>If you like what you see, contact us now</p>
             </div>
           </div>
         </div>
@@ -334,15 +344,16 @@
           <div class="col-md-5" text-center>
             <img
               class="logo-foot"
-              src="https://lh3.googleusercontent.com/y3yu5xC2LIuuBW07AvBzsk8csQwmtkc6JGYfPZs4GaUnLbEh8LwOOC8k-kV_nqqIdmdsOA=s123"
+              src="@/assets/pics/logo1.png"
+            style="width:100px; height:100px"
               alt="logo"
             />
-            <p>Discover amazing collections of women's clothes.</p>
+            <p>Customized fascinators, beaded tiaras, hair bands and many more</p>
             <strong>Contact Us</strong>
             <p>
-              0507730300 <br />
-              0246674425 <br />
-              fashioncentral@gmail.com
+             <a href="tel:0558480096"> 0558480096 </a><br />
+             <a href="tel:0207324350"> 0207324350 </a><br />
+             <a href="mailto:callonjayb@gmail.com"> callonjayb@gmail.com</a>
             </p>
             <p>
               <a href="https://www.facebook.com/" target="_blank"
@@ -351,7 +362,7 @@
               <a href="https://www.twitter.com/" target="_blank"
                 ><i class="fab fa-twitter-square"></i>
               </a>
-              <a href="https://www.instagram.com/" target="_blank"
+              <a href="https://instagram.com/charming_fascinators?igshid=vu79aab7ur2w" target="_blank"
                 ><i class="fab fa-instagram"></i>
               </a>
             </p>
@@ -359,7 +370,7 @@
 
           <hr class="seal" />
           <p>
-            &copy; 2020 Charming Milnery. All rights reserved.
+            &copy; {{ date }} Charming Milnery. All rights reserved.
           </p>
         </div>
         <!--End of Row-->
@@ -370,10 +381,42 @@
 </template>
 
 <script>
+import Loading from "vue-loading-overlay";
+import "vue-loading-overlay/dist/vue-loading.css";
+import axios from "axios";
+
 export default {
   name: 'main',
-  props: {
-    msg: String
+   components: {
+    Loading
+   },
+  data (){
+    return{
+      isLoading: false,
+       height: 128,
+      width: 128,
+      date: new Date().getFullYear()
+    }
+  },
+   methods: {
+    getHubs() {
+      this.isLoading = true;
+      axios
+        .get(
+          "https://c3fymja220.execute-api.us-east-1.amazonaws.com/prod/all/hubs"
+        )
+        .then(res => {
+          this.searchData = res.data;
+          this.data = this.searchData;
+          this.isLoading = false;
+        })
+        // .catch(err => {
+        //   this.isLoading = false;
+        // });
+    }
+  },
+  created() {
+    this.getHubs();
   }
 }
 </script>
