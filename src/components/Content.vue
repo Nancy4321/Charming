@@ -78,7 +78,7 @@
           >
             <div class="carousel-caption ">
               <h1>Welcome To <br />Charming Fascinators</h1>
-              <h3>Everything Millinery and More</h3>
+              <h3>Everything Millinery and More</h3><br/>
               <a class="btn-lg" href="https://instagram.com/charming_fascinators?igshid=vu79aab7ur2w">Click for More</a>
             </div>
           </div>

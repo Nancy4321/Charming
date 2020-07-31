@@ -82,8 +82,9 @@ ol li {
 .carousel-caption {
   position: absolute;
   text-transform: uppercase;
-  top: 38%;
+  top: 25%;
   width: 70%;
+
 }
 
 .carousel-caption h1 {
@@ -105,7 +106,6 @@ ol li {
   border-radius: 0;
   font-size: 1.1rem;
   border: 4px solid white;
-  color: white;
   font-weight: bolder;
   background: rgba(192,192,192,0.1);
 }
