@@ -35,7 +35,7 @@
           class="collapse navbar-collapse"
           id="navbarResponsive"
           style="
-    padding-right: 30px;"
+     padding-right: 30px;"
         >
           <ol class="navbar-nav ml-auto">
             <li class="nav-item">
