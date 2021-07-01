@@ -1,6 +1,6 @@
 <template>
   <div class="main" data-spy="scroll" data-target="#navbarResponsive">
-    <loading
+    <!-- <loading
       :active.sync="isLoading"
       :can-cancel="false"
       loader="dots"
@@ -8,7 +8,7 @@
       :height="height"
       :width="width"
       background-color="#6b6969"
-    ></loading>
+    ></loading> -->
     <!-- Start Home Section-->
     <div id="home">
       <!-- Navigation Bar-->
