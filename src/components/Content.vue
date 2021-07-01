@@ -1,6 +1,6 @@
 <template>
   <div class="main" data-spy="scroll" data-target="#navbarResponsive">
-     <loading
+    <!-- <loading
       :active.sync="isLoading"
       :can-cancel="false"
       loader="dots"
@@ -8,7 +8,7 @@
       :height="height"
       :width="width"
       background-color="#6b6969"
-    ></loading> 
+    ></loading> -->
     <!-- Start Home Section-->
     <div id="home">
       <!-- Navigation Bar-->
@@ -355,11 +355,11 @@ import axios from "axios";
 export default {
   name: "main",
   components: {
-    Loading,
+    //Loading,
   },
   data() {
     return {
-      isLoading: false,
+     // isLoading: false,
       height: 128,
       width: 128,
       date: new Date().getFullYear(),
@@ -367,7 +367,7 @@ export default {
   },
   methods: {
     getHubs() {
-      this.isLoading = true;
+     // this.isLoading = true;
       axios
         .get(
           "https://c3fymja220.execute-api.us-east-1.amazonaws.com/prod/all/hubs"
@@ -377,9 +377,9 @@ export default {
           this.data = this.searchData;
           this.isLoading = false;
         });
-        .catch(err => {
-          this.isLoading = false;
-        });
+        //.catch(err => {
+       //   this.isLoading = false;
+       // });
     },
   },
   created() {
