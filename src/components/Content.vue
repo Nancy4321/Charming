@@ -144,7 +144,7 @@
     </div>
 
     <!--End Home Section-->
-
+<div class="container">
     <!--Start Project Section-->
     <div id="project" class="offset">
       <div class="col-12 narrow text-center">
@@ -301,7 +301,7 @@
       <!-- End of Row-->
     </div>
     <!--End Order Section-->
-
+</div>
     <!-- Start Contact Section-->
     <div id="contact" class="offset">
       <footer>
@@ -348,8 +348,8 @@
 </template>
 
 <script>
-import Loading from "vue-loading-overlay";
-import "vue-loading-overlay/dist/vue-loading.css";
+// import Loading from "vue-loading-overlay";
+// import "vue-loading-overlay/dist/vue-loading.css";
 import axios from "axios";
 
 export default {
@@ -375,7 +375,7 @@ export default {
         .then((res) => {
           this.searchData = res.data;
           this.data = this.searchData;
-          this.isLoading = false;
+          // this.isLoading = false;
         });
         //.catch(err => {
        //   this.isLoading = false;
