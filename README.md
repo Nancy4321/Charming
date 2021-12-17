@@ -1,4 +1,5 @@
 # charming
+My first website after learning Vue.js and Bootstrap CSS Framework 2month into learning coding.
 
 ## Project setup
 ```
