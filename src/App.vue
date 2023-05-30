@@ -1,21 +1,41 @@
 <template>
   <div id="app">
+    <Header />
     <Content />
+    <Footer />
   </div>
 </template>
 
 <script>
 import Content from './components/Content.vue'
+import Header from './components/layouts/Header.vue';
+import Footer from './components/layouts/Footer.vue';
 
 export default {
   name: 'App',
   components: {
-    Content
+    Header,
+    Content,
+    Footer
   }
 }
 </script>
 
 <style>
+.footer{
+    padding: 0 15vw!important;
+}
+.full.cont_info .fa.fa-phone{
+    font-size: 17px!important;
+}
+@media screen and (width:768px){
+    .footer{
+    padding: 0 5vw!important;
+}
+}
+</style>
+
+<!-- <style>
 @import "https://use.fontawesome.com/releases/v5.5.0/css/all.css";
 
 body {
@@ -253,4 +273,4 @@ hr.seal {
     font-size: 1rem;
   }
 }
-</style>
+</style> -->

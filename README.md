@@ -1,5 +1,5 @@
 # charming
-My first website after learning Vue.js and Bootstrap CSS Framework 2month into learning coding.
+My first website after learning Vue.js and Bootstrap CSS Framework revamped.
 
 ## Project setup
 ```
@@ -20,6 +20,8 @@ npm run build
 ```
 npm run lint
 ```
+### Website Link
+https://charming-fascinators.netlify.app
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
