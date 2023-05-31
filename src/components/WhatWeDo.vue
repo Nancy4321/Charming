@@ -68,13 +68,13 @@
                   </div>
                </div>
             </div>
-            <div class="row">
+            <!-- <div class="row">
                <div class="col-sm-12">
                   <div class="full">
                      <a class="read_more_bt float-right" href="#">Read More</a>
                   </div>
                </div>
-            </div>
+            </div> -->
          </div>
       </section>
       <!-- end section -->
@@ -89,11 +89,11 @@
                </div>
                <div class="col-md-5">
                   <div class="full heading_s1">
-                     <h3>Best Home Decoration</h3>
+                     <h3>Elegant Beaded Hairpiece</h3>
                      <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum..</p>
                   </div>
                   <div class="full">
-                     <a class="read_more_bt" href="#">Get A Quote</a>
+                     <a class="read_more_bt" href="/contact-us">Order Now</a>
                   </div>
                </div>
             </div>
@@ -111,11 +111,11 @@
                </div>
                <div class="col-md-5">
                   <div class="full heading_s1">
-                     <h3>Best office  Lighting</h3>
+                     <h3>Wedding Tiaras</h3>
                      <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum..</p>
                   </div>
                   <div class="full">
-                     <a class="read_more_bt" href="#">Get A Quote</a>
+                     <a class="read_more_bt" href="/contact-us">Order Now</a>
                   </div>
                </div>
             </div>

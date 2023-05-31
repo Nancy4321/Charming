@@ -99,7 +99,7 @@
             <div class="row">
                 <div class="col-sm-12">
                     <div class="full">
-                        <a class="read_more_bt float-right" href="#">Read More</a>
+                        <a class="read_more_bt float-right" href="/what-we-do">View More</a>
                     </div>
                 </div>
             </div>
@@ -115,16 +115,16 @@
                         <div class="row">
                         <div class="col-lg-7 col-sm-12 p-relative r-left">
                             <div class="full back_blog text_align_center padding_right_left_15">
-                                <img src="../assets/images/about_img.png" alt="#" />
+                                <img src="../assets/images/charming/about_show_img.jpg" alt="#" />
                             </div>
                         </div>
                         <div class="col-lg-5 col-sm-12 about_row">
                             <div class="full heading_s1">
                                 <h3>About</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum..</p>
+                                <p>Charming Fascinators is a millinery that specializes in creating unique and elegant accessories for your hair. Our fascinators are designed to make you stand out from the crowd and add a touch of charm to your outfit.</p><p> Let Charming Fascinators fascinate you with our quality and craftsmanship because we believe, every woman deserve to feel like a queen.</p>
                             </div>
                             <div class="full">
-                                <a class="read_more_bt" href="#">Read More</a>
+                                <a class="read_more_bt" href="/what-we-do">See Our Products</a>
                             </div>
                         </div>
                         </div>
@@ -144,11 +144,11 @@
                 </div>
                 <div class="col-md-5">
                     <div class="full heading_s1">
-                        <h3>Best<br>Decorating for<br>Your home</h3>
-                        <p>adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore </p>
+                        <h3 class="text-break">Charming<br/>Fascinators<br/>Facinating You</h3>
+                        <p>choose from our wide range of hats, beaded tiaras, hair bands etc. </p>
                     </div>
                     <div class="full">
-                        <a class="read_more_bt" href="#">Get A Quote</a>
+                        <a class="read_more_bt" href="/contact-us">Order Now</a>
                     </div>
                 </div>
             </div>
@@ -162,7 +162,7 @@
                 <div class="col-md-12">
                     <div class="full heading_s1">
                         <h3>Promotion</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit..</p>
+                        <p>Looking for a new look? Order now and get amazing discounts on our accessories.</p>
                     </div>
                 </div>
             </div>
@@ -170,38 +170,38 @@
                 <div class="col-md-6">
                     <div class="blog_style">
                         <div class="full news_blog">
-                        <img src="../assets/images/blog1.png" alt="#" />
+                        <img src="../assets/images/charming/promotion_sale.jpg" alt="#" />
                         </div>
                         <div class="full post_colum">
                         <ul>
-                            <li>Post By : Evonyee</li>
+                            <!-- <li>Post By : Evonyee</li>
                             <li><a href="#">Like <img src="../assets/images/like_btn.png" alt="#" /></a></li>
                             <li><a href="#">Comment <img src="../assets/images/msg_btn.png" alt="#" /></a></li>
-                            <li><a href="#">Share <img src="../assets/images/share_btn.png" alt="#" /></a></li>
+                            <li><a href="#">Share <img src="../assets/images/share_btn.png" alt="#" /></a></li> -->
                         </ul>
                         </div>
                         <div class="full">
-                        <h3>Clean and Decorating office..</h3>
-                        <p>consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore consectetur adipiscing elit, ad minim veniam, quis nostrud exercitation</p>
+                        <h3>Discount Sales: Customer Service Month</h3>
+                        <p>Looking for a hat, tiara, or hair band? Charming Fascinators has it all. Ready-made or customized, we have something for you. And for October only, get <strong>20% off everything</strong>. Order now and get fascinated. This offer is only available while stocks last.</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-6">
                     <div class="blog_style">
                         <div class="full news_blog">
-                        <img src="../assets/images/blog2.png" alt="#" />
+                        <img src="../assets/images/charming/promotion_sale1.jpg" alt="#" />
                         </div>
                         <div class="full post_colum">
                         <ul>
-                            <li>Post By : Evonyee</li>
+                            <!-- <li>Post By : Evonyee</li>
                             <li><a href="#">Like <img src="../assets/images/like_btn.png" alt="#" /></a></li>
                             <li><a href="#">Comment <img src="../assets/images/msg_btn.png" alt="#" /></a></li>
-                            <li><a href="#">Share <img src="../assets/images/share_btn.png" alt="#" /></a></li>
+                            <li><a href="#">Share <img src="../assets/images/share_btn.png" alt="#" /></a></li> -->
                         </ul>
                         </div>
                         <div class="full">
-                        <h3>Lighting and Decorating office..</h3>
-                        <p>consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore consectetur adipiscing elit, ad minim veniam, quis nostrud exercitation</p>
+                        <h3>Mother's Day Special</h3>
+                        <p>Celebrate Mother's Day with Charming Fascinators. Choose from our wide range of <strong>hats, beaded tiaras, hair bands</strong> and more. We have something to suit her style and personality. Charming Fascinators, fascinating you and your mom.</p>
                         </div>
                     </div>
                 </div>
@@ -209,14 +209,14 @@
             </div>
         </section>
         <!-- end section -->
-        <!-- section -->
+        <!-- Request A Call Back section -->
         <section class="layout_padding">
             <div class="container">
             <div class="row">
                 <div class="col-md-12">
                     <div class="full heading_s1">
                         <h3>Request A Call Back</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit..</p>
+                        <p>Please leave a message with your order details.</p>
                     </div>
                 </div>
             </div>
@@ -249,7 +249,7 @@
                 </div>
                 <div class="col-md-6 p-relative">
                     <div class="full back_blog">
-                        <img class="img-responsive" src="../assets/images/call_back.png" alt="#" />
+                        <img class="img-responsive" src="../assets/images/charming/call_me_back.jpg" alt="#" />
                     </div>
                 </div>
             </div>
@@ -272,18 +272,18 @@
                                     <div class="row">
                                     <div class="col-md-3">
                                         <div class="full">
-                                            <div class="center"> <img src="../assets/images/layout_img/testimo_profile.png" alt="#" /> </div>
+                                            <div class="center testimonial_img"> <img src="../assets/images/charming/model9.jpg" alt="#" /> </div>
                                         </div>
                                     </div>
                                     <div class="col-md-9">
                                         <div class="full">
                                             <div class="testi_head">
-                                                <h4>Lianna john</h4>
-                                                <p>Home Rentel</p>
+                                                <h4>Hannah A.</h4>
+                                                <p>Head Band</p>
                                             </div>
                                         </div>
                                         <div class="full testi_slide">
-                                            <p><img src="../assets/images/layout_img/quate_left_test.png" alt="#" />Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua..</p>
+                                            <p><img src="../assets/images/layout_img/quate_left_test.png" alt="#" />I was looking for a fun and festive accessory for a party and I stumbled upon Charming Fascinators on instagram. I was amazed by their collection of beaded tiaras and hair bands. They were so sparkly and colorful, just what I needed to spice up my outfit. I ordered one and it arrived in no time. It was even more gorgeous in person and fit me perfectly. I got so many compliments at the party thanks to Charming Fascinators.</p>
                                         </div>
                                     </div>
                                     </div>
@@ -292,18 +292,18 @@
                                     <div class="row">
                                     <div class="col-md-3">
                                         <div class="full">
-                                            <div class="center"> <img src="../assets/images/layout_img/testimo_profile.png" alt="#" /> </div>
+                                            <div class="center testimonial_img"> <img src="../assets/images/charming/model7.jpg" alt="#" /> </div>
                                         </div>
                                     </div>
                                     <div class="col-md-9">
                                         <div class="full">
                                             <div class="testi_head">
-                                                <h4>Rosy Mike</h4>
-                                                <p>Home Rentel</p>
+                                                <h4>Bridgette. B.</h4>
+                                                <p>Fascinators</p>
                                             </div>
                                         </div>
                                         <div class="full testi_slide">
-                                            <p><img src="../assets/images/layout_img/quate_left_test.png" alt="#" />Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua..</p>
+                                            <p><img src="../assets/images/layout_img/quate_left_test.png" alt="#" />Charming Fascinators is more than just a millinery, it's a fashion statement. Their hats and fascinators are not only functional, but also artistic and expressive. They have a variety of shapes, sizes, and materials to suit any taste and personality. Charming Fascinators is the ultimate destination for accessories lovers.</p>
                                         </div>
                                     </div>
                                     </div>
@@ -312,18 +312,18 @@
                                     <div class="row">
                                     <div class="col-md-3">
                                         <div class="full">
-                                            <div class="center"> <img src="../assets/images/layout_img/testimo_profile.png" alt="#" /> </div>
+                                            <div class="center testimonial_img"> <img src="../assets/images/charming/model1.jpg" alt="#" /> </div>
                                         </div>
                                     </div>
                                     <div class="col-md-9">
                                         <div class="full">
                                             <div class="testi_head">
-                                                <h4>William Butter</h4>
-                                                <p>Home Rentel</p>
+                                                <h4>Pearl C.</h4>
+                                                <p>Hats</p>
                                             </div>
                                         </div>
                                         <div class="full testi_slide">
-                                            <p><img src="../assets/images/layout_img/quate_left_test.png" alt="#" />Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua..</p>
+                                            <p><img src="../assets/images/layout_img/quate_left_test.png" alt="#" />I have been a loyal customer of Charming Fascinators for years and I can honestly say that they never disappoint. Their products are high-quality, durable, and stylish. They also have great customer service and fast delivery. Charming Fascinators is the only place I trust for my hair needs.</p>
                                         </div>
                                     </div>
                                     </div>

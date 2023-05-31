@@ -50,7 +50,7 @@
                <div class="col-md-8 offset-md-2">
                   <div class="full text_align_center">
                      <h3>Request A Call Back</h3>
-                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit,</p>
+                     <p>Thank you for your interest in our products. Please leave a message<br> with your order details and we will get back to you as soon as possible.</p>
                   </div>
                   <div class="full">
                       <form class="form_main">

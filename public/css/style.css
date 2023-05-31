@@ -5470,7 +5470,7 @@ section .gray_font {
     margin: 5px 0;
 }
 
-.testimonial_slider .owl-carousel .owl-item img {
+.testimonial_slider .owl-carousel .owl-item .testi_slide img {
     width: auto;
 }
 
