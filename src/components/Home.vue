@@ -1,5 +1,5 @@
 <template>
-    <div>   
+    <div class="home_page1">   
         <div class="banner-slider">
         <!-- Start Banner Slider -->
             <div class="container-fluid">
@@ -10,24 +10,36 @@
                         <div class="carousel-item active">
                         <div class="full">
                             <div class="left_blog_top">
-                                <h3>Decorate<br>Service</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit..</p>
+                                <h3>Charming<br>Fascinators</h3>
+                                <p>Everything Millinery and More</p>
                                 <a class="bt_main" href="contact">Contact Us</a>
                             </div>
                             <div class="right_blog_top">
-                                <img src="../assets/img/slide1_right.png" alt="#" />
+                                <img src="../assets/img/slider_images/slider_right_img.jpg" alt="#" />
                             </div>
                         </div>
                         </div>
                         <div class="carousel-item">
                         <div class="full">
                             <div class="left_blog_top">
-                                <h3>Decorate<br>Service</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit..</p>
+                                <h3>Charming<br>Fascinators</h3>
+                                <p>Everything Millinery and More</p>
                                 <a class="bt_main" href="contact">Contact Us</a>
                             </div>
                             <div class="right_blog_top">
-                                <img src="../assets/img/slide1_right.png" alt="#" />
+                                <img src="../assets/img/slider_images/slider_right_img1.jpg" alt="#" />
+                            </div>
+                        </div>
+                        </div>
+                        <div class="carousel-item">
+                        <div class="full">
+                            <div class="left_blog_top">
+                                <h3>Charming<br>Fascinators</h3>
+                                <p>Everything Millinery and More</p>
+                                <a class="bt_main" href="contact">Contact Us</a>
+                            </div>
+                            <div class="right_blog_top">
+                                <img src="../assets/img/slider_images/slider_right_img2.jpg" alt="#" />
                             </div>
                         </div>
                         </div>
@@ -47,40 +59,40 @@
             </div>
         </div>
         <!-- End Banner Slider -->
-        <!-- section -->
+        <!-- What We Do section -->
         <section class="layout_padding what_we_do">
             <div class="container">
             <div class="row">
                 <div class="col-md-12">
                     <div class="full heading_s1">
                         <h3>What We Do</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit..</p>
+                        <p>At our millinery, we create stunning headwear for any occasion. Whether you need a hat, a fascinator, a hair band, or a tiara, we have something for you. You can choose from our wide range of styles and colors, or customize your own with our selection of beads, feathers, flowers, and more. Our millinery is known for its quality craftsmanship and attention to detail. We will make sure you look fabulous and feel confident in your headwear.</p>
                     </div>
                 </div>
             </div>
             <div class="row">
                 <div class="col-md-3">
                     <div class="full decorate_blog">
-                        <img src="../assets/images/sm1.png" alt="#" />
-                        <a class="decorate_blog_bt" href="hd">Home Decorate</a>
+                        <img src="../assets/images/charming/sm/sm5.jpg" alt="#" />
+                        <a class="decorate_blog_bt" href="#">Fascinators</a>
                     </div>
                 </div>
                 <div class="col-md-3">
                     <div class="full decorate_blog">
-                        <img src="../assets/images/sm2.png" alt="#" />
-                        <a class="decorate_blog_bt" href="od">Office Decorate</a>
+                        <img src="../assets/images/charming/sm/sm2.jpg" alt="#" />
+                        <a class="decorate_blog_bt" href="#">Hats</a>
                     </div>
                 </div>
                 <div class="col-md-3">
                     <div class="full decorate_blog">
-                        <img src="../assets/images/sm3.png" alt="#" />
-                        <a class="decorate_blog_bt" href="fd">Furniture Decorate</a>
+                        <img src="../assets/images/charming/sm/sm4.jpg" alt="#" />
+                        <a class="decorate_blog_bt" href="#">Brooch</a>
                     </div>
                 </div>
                 <div class="col-md-3">
                     <div class="full decorate_blog">
-                        <img src="../assets/images/sm4.png" alt="#" />
-                        <a class="decorate_blog_bt" href="ld">Lighting Decorate</a>
+                        <img src="../assets/images/charming/sm/sm3.jpg" alt="#" />
+                        <a class="decorate_blog_bt" href="#">Tambour Beading</a>
                     </div>
                 </div>
             </div>
@@ -94,19 +106,19 @@
             </div>
         </section>
         <!-- end section -->
-        <!-- section -->
+        <!-- About section -->
         <section class="layout_padding about_section">
             <div class="container">
             <div class="row">
                 <div class="col-md-12">
                     <div class="row">
                         <div class="row">
-                        <div class="col-md-7 p-relative r-left">
+                        <div class="col-lg-7 col-sm-12 p-relative r-left">
                             <div class="full back_blog text_align_center padding_right_left_15">
                                 <img src="../assets/images/about_img.png" alt="#" />
                             </div>
                         </div>
-                        <div class="col-md-5">
+                        <div class="col-lg-5 col-sm-12 about_row">
                             <div class="full heading_s1">
                                 <h3>About</h3>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum..</p>
@@ -143,13 +155,13 @@
             </div>
         </section>
         <!-- end section -->
-        <!-- section -->
+        <!-- Promotion Sale section -->
         <section class="layout_padding">
             <div class="container">
             <div class="row">
                 <div class="col-md-12">
                     <div class="full heading_s1">
-                        <h3>Latest News</h3>
+                        <h3>Promotion</h3>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit..</p>
                     </div>
                 </div>
@@ -244,7 +256,7 @@
             </div>
         </section>
         <!-- end section -->
-        <!-- section -->
+        <!-- Testimonial section -->
         <section class="layout_padding">
             <div class="container">
             <div class="row">

@@ -12,14 +12,14 @@ Vue.use(VueRouter);
 const routes = [
   { path: '/', component: Home },
   { path: '/about', component: About },
-  { path: '/contact', component: Contact },
+  { path: '/contact-us', component: Contact },
   { path: '/what-we-do', component: WhatWeDo },
   { path: '/testimonial', component: Testimonial },
 ];
 
 const router = new VueRouter({
   routes,
-  mode: 'history', // Use 'history' mode for clean URLs (optional)
+  mode: 'history',
 });
 
 Vue.config.productionTip = false

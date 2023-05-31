@@ -1,7 +1,7 @@
 <template>
-    <div>
+    <div class="about">
         <!-- Start Banner Slider -->
-   <div id="inner_pade" class="banner-slider">
+   <div id="inner_pade" class="banner-slider new_banner">
       <div class="container">
          <div class="row">
             <div class="col-sm-12">

@@ -574,7 +574,7 @@
 @media (min-width: 768px) and (max-width: 991px) {
     .container {
         max-width: 750px;
-        width: 100%:
+        width: 100%;
     }
     .slide_cont h2 {
         font-size: 35px;
@@ -961,7 +961,7 @@
     }
     .container {
         max-width: 540px;
-        width: 100%:
+        width: 100%;
     }
     .inform_dentist_botm p {
         text-align: center;
@@ -3718,9 +3718,7 @@
     .top_style p+p {
         display: none;
     }
-    .logo_circle img {
-        width: 210px;
-    }
+
     .right_head_top {
         display: none;
     }

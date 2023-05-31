@@ -4,11 +4,6 @@ export default {
     return {
       date: new Date().getFullYear(),
     };
-  },
-  methods: {
-    goToAboutPage() {
-      this.$router.push('/about'); 
-    },
   }
 }
 </script>
@@ -21,16 +16,16 @@ export default {
                <div class="col-md-12">
                   <div class="full footer_top">
                      <div class="container">
-                        <div class="row">
-                           <div class="col-md-3 col-sm-12">
-                              <div class="full f_logo">
-                                 <img src="../../assets/images/footer_img.png" alt="#" />
+                        <div class="row footer_rows">
+                           <div class="col-lg-3 col-md-6 col-sm-12">
+                              <div class="f_logo">
+                                 <img src="../../assets/img/logo.png" alt="#" />
                               </div>
                               <div class="full">
                                  <p>consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna strud exercitation</p>
                               </div>
                            </div>
-                           <div class="col-md-3">
+                           <div class="col-lg-3 col-md-6">
                               <div class="full heading_footer">
                                  <h3>Quick Links</h3>
                               </div>
@@ -39,12 +34,12 @@ export default {
                                     <li><a href="/">Home</a></li>
                                     <li><a href="about">About</a></li>
                                     <li><a href="what-we-do">What we do</a></li>
-                                    <li><a href="testimonial">Testimonial</a></li>
-                                    <li><a href="contact">Contact us</a></li>
+                                    <!-- <li><a href="testimonial">Testimonial</a></li> -->
+                                    <li><a href="contact-us">Contact us</a></li>
                                  </ul>
                               </div>
                            </div>
-                           <div class="col-md-3">
+                           <div class="col-lg-3 col-md-6">
                               <div class="full heading_footer">
                                  <h3>Instagram</h3>
                               </div>
@@ -61,7 +56,7 @@ export default {
                                  </ul>
                               </div>
                            </div>
-                           <div class="col-md-3 ">
+                           <div class="col-lg-3 col-md-6 ">
                               <div class="full heading_footer">
                                  <h3>Subscribe</h3>
                               </div>
@@ -83,27 +78,27 @@ export default {
                                  </form>
                               </div>
                            </div>
-                           <div class="col-md-12">
+                           <div class="col-12">
                               <div class="row margin_top_50">
                                  <div class="col-md-10 offset-md-1">
                                     <div class="row">
-                                       <div class="col-sm-4">
+                                       <div class="col-md-4 col-sm-12">
                                           <div class="full cont_info">
                                              <i class="fa fa-map-marker"></i>
-                                             <span>Location</span>
+                                             <span>Accra - Ghana</span>
                                           </div>
                                        </div>
-                                       <div class="col-sm-4">
+                                       <div class="col-md-4 col-sm-12">
                                           <div class="full cont_info">
                                              <i class="fa fa-phone"></i>
                                              <span>Call +233 20 732 4350 <br/>
                                                 Call +233 55 848 0096</span>
                                           </div>
                                        </div>
-                                       <div class="col-sm-4">
+                                       <div class="col-md-4 col-sm-12">
                                           <div class="full cont_info">
                                              <i class="fa fa-envelope"></i>
-                                             <span>callonjayb@gmail.com</span>
+                                             <span class="text-break">callonjayb@gmail.com</span>
                                           </div>
                                        </div>
                                     </div>
@@ -142,16 +137,3 @@ export default {
       <!-- end cpy -->
     </div>
 </template>
-<style>
-.footer{
-    padding: 0 15vw!important;
-}
-.full.cont_info .fa.fa-phone{
-    font-size: 17px;
-}
-@media screen and (width:768px){
-    .footer{
-    padding: 0 5vw!important;
-}
-}
-</style>
