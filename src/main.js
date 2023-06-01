@@ -12,7 +12,7 @@ import HairPieces from './components/CatalogueList/HairPieces.vue';
 import BridalHairAccessories from './components/CatalogueList/BridalHairAcc.vue';
 import Hats from './components/CatalogueList/Hats.vue';
 import VueSweetalert2 from 'vue-sweetalert2';
-import 'sweetalert2/dist/sweetalert2.min.css';
+// import 'sweetalert2/dist/sweetalert2.min.css';
 
 Vue.use(VueRouter);
 
