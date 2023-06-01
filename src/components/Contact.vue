@@ -53,25 +53,26 @@
                      <p>Thank you for your interest in our products. Please leave a message<br> with your order details and we will get back to you as soon as possible.</p>
                   </div>
                   <div class="full">
-                     <form id="contactform" class="form_main" action="https://formsubmit.io/send/callonjayb@gmail.com" method="POST">
+                     <form id="contactform" class="form_main" action="https://formsubmit.io/send/37ba06fa-60bc-4545-910d-412c6d055696" method="POST">
                          <fieldset>
                             <legend></legend>
                             <div class="row">
                               <div class="col-md-10 offset-md-1">
                                  <div class="full field">
-                                     <input type="text" name="name" placeholder="Your Name" required />
+                                     <input type="text" name="name" placeholder="Your Name" id="name" required />
                                  </div>
                                  <div class="full field">
                                      <input type="text" name="number" placeholder="Phone Number" required />
                                  </div>
                                  <div class="full field">
-                                     <input type="email" name="email" placeholder="Email" required />
+                                     <input type="email" name="email" placeholder="Email" id="email" required />
                                  </div>
                                  <div class="full field">
-                                    <textarea placeholder="Message" name="message"></textarea>
+                                    <textarea placeholder="Message" name="comment" id="comment"></textarea>
                                  </div>
+                                 <input name="_formsubmit_id" type="text" style="display:none">
                                  <div class="full field center">
-                                    <button>Send</button>
+                                    <button type="submit"><input value="Submit" type="submit" hidden>Send</button>
                                  </div>
                               </div>
                             </div>

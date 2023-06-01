@@ -214,25 +214,25 @@
             </div>
             <div class="row">
                 <div class="col-lg-6 home_contact">
-                    <form action="#">
+                    <form id="contactform" action="https://formsubmit.io/send/37ba06fa-60bc-4545-910d-412c6d055696" method="POST">
                         <fieldset>
                         <legend></legend>
                         <div class="row">
                             <div class="col-sm-12">
                                 <div class="full fieldset_blog">
-                                    <input type="text" placeholder="Your Name" name="name" />
+                                    <input type="text" placeholder="Your Name" name="name" id="name" required />
                                 </div>
                                 <div class="full fieldset_blog">
                                     <input type="text" placeholder="Phone Number" name="phone_no" />
                                 </div>
                                 <div class="full fieldset_blog">
-                                    <input type="email" placeholder="email" name="email" />
+                                    <input type="email" placeholder="email" name="email" id="email" required />
                                 </div>
                                 <div class="full fieldset_blog">
-                                    <textarea placeholder="Message"></textarea>
+                                    <textarea placeholder="Message" name="comment" id="comment"></textarea>
                                 </div>
                                 <div class="full fieldset_blog center">
-                                    <button>Send</button>
+                                    <button type="submit"><input value="Submit" type="submit" hidden>Send</button>
                                 </div>
                             </div>
                         </div>
