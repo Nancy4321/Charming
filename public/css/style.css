@@ -8689,9 +8689,8 @@ form button:focus {
     color: #525151;
     padding-left: 20px;
     padding-right: 20px;
-    width: 250px;
     height: 55px;
-    line-height: 55px;
+    /* line-height: 55px; */
     text-align: center;
     text-transform: uppercase;
     font-weight: 600;

@@ -53,7 +53,7 @@
                      <p>Thank you for your interest in our products. Please leave a message<br> with your order details and we will get back to you as soon as possible.</p>
                   </div>
                   <div class="full">
-                      <form class="form_main">
+                     <form id="contactform" class="form_main" action="https://formsubmit.io/send/callonjayb@gmail.com" method="POST">
                          <fieldset>
                             <legend></legend>
                             <div class="row">
@@ -68,7 +68,7 @@
                                      <input type="email" name="email" placeholder="Email" required />
                                  </div>
                                  <div class="full field">
-                                    <textarea placeholder="Message"></textarea>
+                                    <textarea placeholder="Message" name="message"></textarea>
                                  </div>
                                  <div class="full field center">
                                     <button>Send</button>
