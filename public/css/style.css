@@ -818,7 +818,7 @@ section .small_head h2 {
 }
 
 #status {
-    background: url('../images/loading.gif');
+    background: url('../assets/images/loading.gif');
     width: 500px;
     height: 375px;
     background-size: cover;
@@ -922,7 +922,7 @@ section .small_head h2 {
     z-index: 1;
     bottom: -65px;
     left: 0;
-    background-image: url('../images/arr_logo.png');
+    background-image: url('../assets/images/arr_logo.png');
     background-repeat: no-repeat;
     background-position: bottom center;
     background-size: 100% 100%;
@@ -1538,7 +1538,7 @@ section .social_icons {
 /**-- contant section --**/
 
 .theme_bg {
-    background-image: url('../images/layout_img/bg_layout.png');
+    background-image: url('../assets/images/layout_img/bg_layout.png');
     background-size: cover;
     min-height: 650px;
     background-position: center;
@@ -1560,7 +1560,7 @@ section .social_icons {
     display: block;
     top: -1px;
     position: absolute;
-    background-image: url(../images/layout_img/cross_bg_top.png);
+    background-image: url(../assets/images/layout_img/cross_bg_top.png);
     background-size: 100% 100%;
 }
 
@@ -1570,7 +1570,7 @@ section .social_icons {
     content: "";
     display: block;
     position: absolute;
-    background-image: url('../images/layout_img/cross_bg_bottom.png');
+    background-image: url('../assets/images/layout_img/cross_bg_bottom.png');
     bottom: -1px;
     background-size: cover;
     background-repeat: no-repeat;
@@ -1972,7 +1972,7 @@ form#commant_form div.field textarea.custom_field {
 -------------------------------------------------------------------*/
 
 .contact_section {
-    background-image: url('../images/layout_img/contact_form_bg.png');
+    background-image: url('../assets/images/layout_img/contact_form_bg.png');
     background-position: right bottom;
     background-repeat: no-repeat;
     background-color: #4b31aa;
@@ -2629,7 +2629,7 @@ ul.social_icon {
 }
 
 .haf_full_section.right_full.space_img_graffic::after {
-    background-image: url('../images/layout_img/space_garffic.png')
+    background-image: url('../assets/images/layout_img/space_garffic.png')
 }
 
 .golden_yellow_theme a.transparent_bt {
@@ -2742,7 +2742,7 @@ section .social_icons li {
 }
 
 .mautain_img_graffic {
-    background-image: url('../images/layout_img/mautain_full.png');
+    background-image: url('../assets/images/layout_img/mautain_full.png');
     background-size: cover;
 }
 
@@ -2788,7 +2788,7 @@ section .social_icons li {
     position: relative;
     width: 15px;
     height: 15px;
-    background: url('../images/layout_img/list_style_icon.png');
+    background: url('../assets/images/layout_img/list_style_icon.png');
     position: absolute;
     top: 0;
     left: -38px;
@@ -2948,7 +2948,7 @@ section .social_icons li {
 }
 
 .gray_layer_bg {
-    background-image: url('../images/layout_img/2_layer_bg.png');
+    background-image: url('../assets/images/layout_img/2_layer_bg.png');
     background-size: cover;
 }
 
@@ -3175,7 +3175,7 @@ section .social_icons li {
 }
 
 .dark_bg_with_img_layer {
-    background: url('../images/layout_img/gradian_img2.png');
+    background: url('../assets/images/layout_img/gradian_img2.png');
     background-size: cover;
 }
 
@@ -3450,7 +3450,7 @@ a:not([href]):not([tabindex]) {
 }
 
 .hause_purple {
-    background: url(../images/layout_img/banner_img3.png);
+    background: url(../assets/images/layout_img/banner_img3.png);
 }
 
 .star_rating ul li {
@@ -3979,7 +3979,7 @@ a:not([href]):not([tabindex]) {
 
 .click_section_form_change_vedio:hover,
 .click_section_form_change_vedio:focus {
-    background: url(../images/layout_img/green_bg_hover_layer.png);
+    background: url(../assets/images/layout_img/green_bg_hover_layer.png);
     background-size: cover;
     transition: ease all 1s;
 }
@@ -4002,7 +4002,7 @@ a:not([href]):not([tabindex]) {
 }
 
 .land_bg {
-    background: url('../images/layout_img/land_bg.png');
+    background: url('../assets/images/layout_img/land_bg.png');
     background-size: cover;
     background-attachment: fixed;
 }
@@ -4079,7 +4079,7 @@ a:not([href]):not([tabindex]) {
 }
 
 .subcrib {
-    background: url('../images/layout_img/subcribe_img.png');
+    background: url('../assets/images/layout_img/subcribe_img.png');
     background-size: cover;
 }
 
@@ -4294,7 +4294,7 @@ section .gray_font {
 
 .white_bg_cafe {
     position: relative;
-    background: url('../images/layout_img/white_bg_cafe.png');
+    background: url('../assets/images/layout_img/white_bg_cafe.png');
     background-position: top center;
     background-size: cover;
     position: relative;
@@ -4309,7 +4309,7 @@ section .gray_font {
     width: 100%;
     height: 85px;
     display: block;
-    background: url('../images/layout_img/white_bg_cafear.png');
+    background: url('../assets/images/layout_img/white_bg_cafear.png');
     content: "";
     margin: 0 auto;
     background-position: top center;
@@ -4339,7 +4339,7 @@ section .gray_font {
 
 .scoop_bg_cream {
     position: relative;
-    background: url('../images/layout_img/scoop_bg_cream.png');
+    background: url('../assets/images/layout_img/scoop_bg_cream.png');
     background-size: auto auto;
     background-position: top center;
     background-size: cover;
@@ -4382,7 +4382,7 @@ section .gray_font {
 }
 
 .black_border {
-    background-image: url('../images/layout_img/black_bor_bg.png');
+    background-image: url('../assets/images/layout_img/black_bor_bg.png');
     background-repeat: no-repeat;
     background-position: 0 23px;
     padding-left: 105px;
@@ -4391,7 +4391,7 @@ section .gray_font {
 }
 
 .white_border {
-    background-image: url('../images/layout_img/white_bor_bg.png');
+    background-image: url('../assets/images/layout_img/white_bor_bg.png');
     background-repeat: no-repeat;
     background-position: 0 23px;
     padding-left: 105px;
@@ -4663,7 +4663,7 @@ section .gray_font {
 }
 
 .light_silver_layer_top {
-    background: url('../images/layout_img/light_silver_layer_top.png');
+    background: url('../assets/images/layout_img/light_silver_layer_top.png');
     background-position: center top;
     background-size: 100% auto;
     background-repeat: no-repeat;
@@ -5851,17 +5851,17 @@ section .gray_font {
 }
 
 .owl-carousel-mousewheel .owl-prev {
-    background-image: url('../images/layout_img/left_arrow_scroll.png');
+    background-image: url('../assets/images/layout_img/left_arrow_scroll.png');
 }
 
 .owl-carousel-mousewheel .owl-next {
-    background-image: url('../images/layout_img/right_arrow_scroll.png');
+    background-image: url('../assets/images/layout_img/right_arrow_scroll.png');
 }
 
 .border_bottom_process {
     margin-bottom: -52px;
     padding-bottom: 52px;
-    background-image: url('../images/layout_img/blue_green_line.png');
+    background-image: url('../assets/images/layout_img/blue_green_line.png');
     background-position: center bottom;
     background-repeat: no-repeat;
     background-size: 100% 1px;
@@ -5902,7 +5902,7 @@ section .gray_font {
 }
 
 .mautain_bg {
-    background-image: url('../images/layout_img/mautain_2.png');
+    background-image: url('../assets/images/layout_img/mautain_2.png');
     background-position: center center;
     background-attachment: fixed;
 }
@@ -5983,7 +5983,7 @@ section .gray_font {
     border-radius: 50%;
     width: 4em;
     height: 4em;
-    background-image: url('../images/layout_img/mautain_2.png');
+    background-image: url('../assets/images/layout_img/mautain_2.png');
     content: "";
     background-attachment: fixed;
     background-position: center center;
@@ -6565,7 +6565,7 @@ section .gray_font {
 }
 
 .inner_banner1 {
-    background-image: url('../images/inner_page_banner.png');
+    background-image: url('../assets/images/inner_page_banner.png');
 }
 
 .footer_top_border {
@@ -6770,7 +6770,7 @@ section .gray_font {
     left: -35px;
     transition: ease all 0.5s;
     position: absolute;
-    background-image: url('../images/layout_img/testimo_slide_ar1.png');
+    background-image: url('../assets/images/layout_img/testimo_slide_ar1.png');
     background-color: #ebebeb;
     background-repeat: no-repeat;
     background-position: center center;
@@ -6791,7 +6791,7 @@ section .gray_font {
     position: absolute;
     transition: ease all 0.5s;
     border-radius: 100%;
-    background-image: url('../images/layout_img/testimo_slide_ar2.png');
+    background-image: url('../assets/images/layout_img/testimo_slide_ar2.png');
     background-color: #ebebeb;
     background-repeat: no-repeat;
     background-position: center center;
@@ -6836,14 +6836,14 @@ section .gray_font {
 }
 
 .blog_banner {
-    background: url('../images/layout_img/blog_inner_banner.png');
+    background: url('../assets/images/layout_img/blog_inner_banner.png');
     background-size: cover;
     min-height: 250px;
     padding-top: 75px;
 }
 
 .portfolio_banner {
-    background: url('../images/layout_img/banner_img2.png');
+    background: url('../assets/images/layout_img/banner_img2.png');
     background-size: cover;
     min-height: 250px;
     padding-top: 75px;
@@ -7207,13 +7207,13 @@ ul.pagination li.page-item.active .page-link {
 }
 
 .land_sky_bg {
-    background: url('../images/layout_img/land_sky.png');
+    background: url('../assets/images/layout_img/land_sky.png');
     background-size: cover;
     background-position: center center;
 }
 
 .grey_soldier {
-    background: url('../images/layout_img/soldier.png');
+    background: url('../assets/images/layout_img/soldier.png');
     background-size: cover;
     background-position: center center;
 }
@@ -7513,7 +7513,7 @@ img[data-toggle="modal"] {
 /** product pages **/
 
 .ecommer1 {
-    background-image: url('../images/layout_img/ecomm_bg1.png');
+    background-image: url('../assets/images/layout_img/ecomm_bg1.png');
 }
 
 .products_page header {
@@ -8231,7 +8231,7 @@ img[data-toggle="modal"] {
 }
 
 .panel-heading.patternbg {
-    background: url('../images/layout_img/inner_bg1.png');
+    background: url('../assets/images/layout_img/inner_bg1.png');
     color: #fff;
     padding: 25px 40px;
     background-size: cover;
@@ -8347,7 +8347,7 @@ img[data-toggle="modal"] {
 /** new css add **/
 
 .about_bg {
-    background-image: url(../images/about_bg.png);
+    background-image: url(../assets/images/about_bg.png);
     background-position: center bottom;
     background-size: auto;
     background-repeat: no-repeat;
@@ -8355,7 +8355,7 @@ img[data-toggle="modal"] {
 }
 
 .about_bg_left {
-    background-image: url(../images/about_bg3.png);
+    background-image: url(../assets/images/about_bg3.png);
     background-position: center bottom;
     background-size: auto;
     background-repeat: no-repeat;
@@ -8401,7 +8401,7 @@ img[data-toggle="modal"] {
 }
 
 .bg_2_style {
-    background-image: url(../images/design_bg.png);
+    background-image: url(../assets/images/design_bg.png);
     background-size: cover;
 }
 
@@ -8518,7 +8518,7 @@ img[data-toggle="modal"] {
 }
 
 .layout_padding_new_letter {
-    background: url('../images/join_us.png');
+    background: url('../assets/images/join_us.png');
     background-position: center center;
     background-size: cover;
 }
@@ -8579,7 +8579,7 @@ img[data-toggle="modal"] {
 }
 
 .design_layout {
-    background-image: url(../assets/images/lamp.png);
+    background: linear-gradient(0deg, rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.3)), url(../assets/images/tiara2.png);
     background-color: #f7f7f7;
     background-repeat: no-repeat;
     min-height: 765px;
@@ -8687,7 +8687,9 @@ form button:focus {
 
 .decorate_blog_bt {
     color: #525151;
-    width: 185px;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 250px;
     height: 55px;
     line-height: 55px;
     text-align: center;
@@ -8892,12 +8894,40 @@ form button:focus {
 }
 
 .contact #inner_pade.banner-slider {
-    background-image: url('../images/contact_banner.png');
+    background-image: url('../assets/images/contact_banner.png');
  }
+
+.catalogue #inner_pade.banner-slider {
+    background-image: url('../assets/images/inner_page_banner9.png');
+}
+
+.catalogue.fascinators #inner_pade.banner-slider {
+    background-image: url('../assets/images/inner_page_banner10.jpg');
+}
+
+.catalogue.hat #inner_pade.banner-slider {
+    background-image: url('../assets/images/inner_page_banner12.jpg');
+}
+
+.catalogue.bridal_ha #inner_pade.banner-slider {
+    background-image: url('../assets/images/inner_page_banner11.jpg');
+}
+
+.catalogue.hairband #inner_pade.banner-slider {
+    background-image: url('../assets/images/inner_page_banner7.jpg');
+}
+
+.testimonial #inner_pade.banner-slider {
+    background-image: url('../assets/images/inner_page_banner6.jpg');
+}
+
+.wwd.whatwedo #inner_pade.banner-slider {
+    background-image: url('../assets/images/inner_page_banner8.jpg');
+}
 
 #inner_pade.banner-slider {
     height: 485px;
-    background-image: url('../images/inner_page_banner.png');
+    background-image: url('../assets/images/inner_page_banner_hat2.png');
     width: 100%;
     background-size: auto;
     background-position: right top;

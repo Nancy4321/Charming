@@ -32,10 +32,11 @@ export default {
                               <div class="full">
                                  <ul class="footer_link">
                                     <li><a href="/">Home</a></li>
-                                    <!-- <li><a href="about">About</a></li> -->
-                                    <li><a href="what-we-do">What we do</a></li>
-                                    <!-- <li><a href="testimonial">Testimonial</a></li> -->
-                                    <li><a href="contact-us">Contact us</a></li>
+                                    <li><a href="about">About</a></li>
+                                    <li><a href="/what-we-do">What we do</a></li>
+                                    <li><a href="/catalogue">Catalogue</a></li>
+                                    <li><a href="testimonial">Testimonial</a></li>
+                                    <li><a href="/contact-us">Contact us</a></li>
                                  </ul>
                               </div>
                            </div>

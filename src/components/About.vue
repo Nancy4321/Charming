@@ -1,7 +1,7 @@
 <template>
     <div class="about">
         <!-- Start Banner Slider -->
-   <div id="inner_pade" class="banner-slider new_banner">
+   <div id="inner_pade" class="banner-slider new_banner c_mb">
       <div class="container">
          <div class="row">
             <div class="col-sm-12">
@@ -13,114 +13,131 @@
       </div>
    </div>
    <!-- End Banner Slider -->
+   <!-- About section -->
+   <section class="layout_padding about_section">
+      <div class="container">
+      <div class="row">
+            <div class="col-md-12">
+               <div class="row">
+                  <div class="row">
+                  <div class="col-lg-7 col-sm-12 p-relative r-left">
+                        <div class="full back_blog text_align_center padding_right_left_15">
+                           <img src="../assets/images/charming/about_show_img.jpg" class="md-w-full" alt="#" />
+                        </div>
+                  </div>
+                  <div class="col-lg-5 col-sm-12 about_row">
+                        <div class="full heading_s1">
+                           <h3>About</h3>
+                           <p>Charming Fascinators is a millinery that specializes in creating unique and elegant accessories for your hair. Our fascinators are designed to make you stand out from the crowd and add a touch of charm to your outfit.</p><p> Let Charming Fascinators fascinate you with our quality and craftsmanship because we believe, every woman deserve to feel like a queen.</p>
+                        </div>
+                        <div class="full">
+                           <a class="read_more_bt wwd_button" href="/catalogue">See Our Products</a>
+                        </div>
+                  </div>
+                  </div>
+               </div>
+            </div>
+      </div>
+      </div>
+   </section>
+   <!-- end section -->
+   <!-- section -->
+   <section class="layout_padding about_section">
+         <div class="container">
+            <div class="row">
+               <div class="col-lg-7 col-t-md p-relative r-left">
+                  <div class="full back_blog text_align_center padding_right_left_15">
+                     <img src="../assets/images/charming/wd_show_2.jpg" alt="#" />
+                  </div>
+               </div>
+               <div class="col-lg-5 col-t-md">
+                  <div class="full heading_s1">
+                     <h3>Elegant Beaded Hairpiece</h3>
+                     <p>Add a touch of elegance to your outfit with our beaded hairpieces. Whether you need a hat, a tiara, a hair band, or a customized hairset, we have the perfect accessory for you. Our beaded hairpieces are handcrafted with high-quality materials and exquisite designs. You will love how they sparkle and shine in the light. Order yours today and get ready to impress!</p>
+                  </div>
+                  <div class="full">
+                     <a class="read_more_bt" href="/contact-us">Order Now</a>
+                  </div>
+               </div>
+            </div>
+         </div>
+   </section>
+   <!-- end section -->
+   <!-- section -->
+   <section class="layout_padding about_section">
+      <div class="container">
+         <div class="row">
+            <div class="col-lg-7 col-t-md p-relative r-left">
+               <div class="full back_blog text_align_center padding_right_left_15">
+                  <img src="../assets/images/charming/wd_show_1.jpg" alt="#" />
+               </div>
+            </div>
+            <div class="col-lg-5 col-t-md">
+               <div class="full heading_s1">
+                  <h3>Wedding Tiaras</h3>
+                  <p>Find your dream wedding tiara and accessories from our range of exquisite designs. Whether you love pearls, crystals, flowers, or hats, we have something to suit your style and budget. Our tiaras are crafted with quality and elegance, and they will make you shine on your big day. Explore our website or store to discover your ideal bridal accessory.</p>
+               </div>
+               <div class="full">
+                  <a class="read_more_bt" href="/contact-us">Order Now</a>
+               </div>
+            </div>
+         </div>
+      </div>
+   </section>
+   <!-- end section -->
+   <!-- ShowCase section -->
+   <section class="layout_padding design_layout md-h-min">
+      <div class="container">
+      <div class="row">
+            <div class="col-lg-7">
+               <div class="full">
+               </div>
+            </div>
+            <div class="col-lg-5">
+               <div class="full heading_s1">
+                  <h3>Charming<br/>Fascinators<br/>Facinating You</h3>
+                  <p>choose from our wide range of hats, beaded tiaras, hair bands etc. </p>
+               </div>
+               <div class="full">
+                  <a class="read_more_bt" href="/contact-us">Order Now</a>
+               </div>
+            </div>
+      </div>
+      </div>
+   </section>
+   <!-- end section -->
    <!-- section -->
    <section class="layout_padding what_we_do">
       <div class="container">
          <div class="row">
-            <div class="col-md-3">
+            <div class="col-lg-3 col-md-6">
                <div class="full decorate_blog">
-                  <img src="../assets/images/sm1.png" alt="#" />
-                  <a class="decorate_blog_bt" href="#">Home Decorate</a>
+                  <img src="../assets/images/charming/sm/sm5.jpg" alt="#" />
+                  <a class="decorate_blog_bt" href="/catalogue/fascinators">Fascinators</a>
                </div>
             </div>
-            <div class="col-md-3">
+            <div class="col-lg-3 col-md-6">
                <div class="full decorate_blog">
-                  <img src="../assets/images/sm2.png" alt="#" />
-                  <a class="decorate_blog_bt" href="#">Office Decorate</a>
+                  <img src="../assets/images/charming/sm/sm2.jpg" alt="#" />
+                  <a class="decorate_blog_bt" href="/catalogue/hats">Hats</a>
                </div>
             </div>
-            <div class="col-md-3">
+            <div class="col-lg-3 col-md-6">
                <div class="full decorate_blog">
-                  <img src="../assets/images/sm3.png" alt="#" />
-                  <a class="decorate_blog_bt" href="#">Furniture Decorate</a>
+                  <img src="../assets/images/charming/sm/sm4.jpg" alt="#" />
+                  <a class="decorate_blog_bt" href="/catalogue/bridal-hair-accessories">Bridal Hair Accessories</a>
                </div>
             </div>
-            <div class="col-md-3">
+            <div class="col-lg-3 col-md-6">
                <div class="full decorate_blog">
-                  <img src="../assets/images/sm4.png" alt="#" />
-                  <a class="decorate_blog_bt" href="#">Lighting Decorate</a>
+                  <img src="../assets/images/charming/sm/sm3.jpg" alt="#" />
+                  <a class="decorate_blog_bt" href="/catalogue/hair-bands">Hair Bands</a>
                </div>
             </div>
-         </div>
-         <div class="row">
-            <div class="col-md-3">
-               <div class="full decorate_blog">
-                  <img src="../assets/images/sm1.png" alt="#" />
-                  <a class="decorate_blog_bt" href="#">Home Decorate</a>
-               </div>
-            </div>
-            <div class="col-md-3">
-               <div class="full decorate_blog">
-                  <img src="../assets/images/sm2.png" alt="#" />
-                  <a class="decorate_blog_bt" href="#">Office Decorate</a>
-               </div>
-            </div>
-            <div class="col-md-3">
-               <div class="full decorate_blog">
-                  <img src="../assets/images/sm3.png" alt="#" />
-                  <a class="decorate_blog_bt" href="#">Furniture Decorate</a>
-               </div>
-            </div>
-            <div class="col-md-3">
-               <div class="full decorate_blog">
-                  <img src="../assets/images/sm4.png" alt="#" />
-                  <a class="decorate_blog_bt" href="#">Lighting Decorate</a>
-               </div>
-            </div>
-         </div>
-         <div class="row">
-            <div class="col-sm-12">
-               <div class="full">
-                  <a class="read_more_bt float-right" href="#">Read More</a>
-               </div>
-            </div>
-         </div>
+      </div>
       </div>
    </section>
    <!-- end section -->
-   <!-- section -->
-   <section class="layout_padding about_section">
-      <div class="container">
-         <div class="row">
-            <div class="col-md-7 p-relative r-left">
-               <div class="full back_blog text_align_center padding_right_left_15">
-                  <img src="../assets/images/wd_1.png" alt="#" />
-               </div>
-            </div>
-            <div class="col-md-5">
-               <div class="full heading_s1">
-                  <h3>Best Home Decoration</h3>
-                  <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum..</p>
-               </div>
-               <div class="full">
-                  <a class="read_more_bt" href="#">Get A Quote</a>
-               </div>
-            </div>
-         </div>
-      </div>
-   </section>
-   <!-- end section -->
-   <!-- section -->
-   <section class="layout_padding about_section">
-      <div class="container">
-         <div class="row">
-            <div class="col-md-7 p-relative r-left">
-               <div class="full back_blog text_align_center padding_right_left_15">
-                  <img src="../assets/images/wd_2.png" alt="#" />
-               </div>
-            </div>
-            <div class="col-md-5">
-               <div class="full heading_s1">
-                  <h3>Best office Lighting</h3>
-                  <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum..</p>
-               </div>
-               <div class="full">
-                  <a class="read_more_bt" href="#">Get A Quote</a>
-               </div>
-            </div>
-         </div>
-      </div>
-   </section>
-   <!-- end section -->
+   
     </div>
 </template>

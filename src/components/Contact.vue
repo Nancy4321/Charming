@@ -34,7 +34,7 @@
                     <div class="col-md-4">
                         <div class="full cont_info">
                             <i class="fa fa-envelope"></i>
-                            <span>callonjayb@gmail.com</span>
+                            <span class="text-break">callonjayb@gmail.com</span>
                         </div>
                     </div>
                 </div>

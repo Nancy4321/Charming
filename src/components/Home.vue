@@ -71,28 +71,28 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-md-3">
+                <div class="col-lg-3 col-md-6">
                     <div class="full decorate_blog">
                         <img src="../assets/images/charming/sm/sm5.jpg" alt="#" />
-                        <a class="decorate_blog_bt" href="#">Fascinators</a>
+                        <a class="decorate_blog_bt" href="/catalogue/fascinators">Fascinators</a>
                     </div>
                 </div>
-                <div class="col-md-3">
+                <div class="col-lg-3 col-md-6">
                     <div class="full decorate_blog">
                         <img src="../assets/images/charming/sm/sm2.jpg" alt="#" />
-                        <a class="decorate_blog_bt" href="#">Hats</a>
+                        <a class="decorate_blog_bt" href="/catalogue/hats">Hats</a>
                     </div>
                 </div>
-                <div class="col-md-3">
+                <div class="col-lg-3 col-md-6">
                     <div class="full decorate_blog">
                         <img src="../assets/images/charming/sm/sm4.jpg" alt="#" />
-                        <a class="decorate_blog_bt" href="#">Brooch</a>
+                        <a class="decorate_blog_bt" href="/catalogue/bridal-hair-accessories">Bridal Hair Accessories</a>
                     </div>
                 </div>
-                <div class="col-md-3">
+                <div class="col-lg-3 col-md-6">
                     <div class="full decorate_blog">
                         <img src="../assets/images/charming/sm/sm3.jpg" alt="#" />
-                        <a class="decorate_blog_bt" href="#">Tambour Beading</a>
+                        <a class="decorate_blog_bt" href="/catalogue/hair-bands">Hair Bands</a>
                     </div>
                 </div>
             </div>
@@ -115,7 +115,7 @@
                         <div class="row">
                         <div class="col-lg-7 col-sm-12 p-relative r-left">
                             <div class="full back_blog text_align_center padding_right_left_15">
-                                <img src="../assets/images/charming/about_show_img.jpg" alt="#" />
+                                <img src="../assets/images/charming/about_show_img.jpg" class="md-w-full" alt="#" />
                             </div>
                         </div>
                         <div class="col-lg-5 col-sm-12 about_row">
@@ -124,7 +124,7 @@
                                 <p>Charming Fascinators is a millinery that specializes in creating unique and elegant accessories for your hair. Our fascinators are designed to make you stand out from the crowd and add a touch of charm to your outfit.</p><p> Let Charming Fascinators fascinate you with our quality and craftsmanship because we believe, every woman deserve to feel like a queen.</p>
                             </div>
                             <div class="full">
-                                <a class="read_more_bt" href="/what-we-do">See Our Products</a>
+                                <a class="read_more_bt wwd_button" href="/catalogue">See Our Products</a>
                             </div>
                         </div>
                         </div>
@@ -134,17 +134,17 @@
             </div>
         </section>
         <!-- end section -->
-        <!-- section -->
-        <section class="layout_padding design_layout">
+        <!-- ShowCase section -->
+        <section class="layout_padding design_layout md-h-min">
             <div class="container">
             <div class="row">
-                <div class="col-md-7">
+                <div class="col-lg-7">
                     <div class="full">
                     </div>
                 </div>
-                <div class="col-md-5">
+                <div class="col-lg-5">
                     <div class="full heading_s1">
-                        <h3 class="text-break">Charming<br/>Fascinators<br/>Facinating You</h3>
+                        <h3>Charming<br/>Fascinators<br/>Facinating You</h3>
                         <p>choose from our wide range of hats, beaded tiaras, hair bands etc. </p>
                     </div>
                     <div class="full">
@@ -167,17 +167,13 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-md-6">
+                <div class="col-lg-6">
                     <div class="blog_style">
                         <div class="full news_blog">
-                        <img src="../assets/images/charming/promotion_sale.jpg" alt="#" />
+                        <img src="../assets/images/charming/promotion_sale.jpg" class="md-w-full" alt="#" />
                         </div>
                         <div class="full post_colum">
                         <ul>
-                            <!-- <li>Post By : Evonyee</li>
-                            <li><a href="#">Like <img src="../assets/images/like_btn.png" alt="#" /></a></li>
-                            <li><a href="#">Comment <img src="../assets/images/msg_btn.png" alt="#" /></a></li>
-                            <li><a href="#">Share <img src="../assets/images/share_btn.png" alt="#" /></a></li> -->
                         </ul>
                         </div>
                         <div class="full">
@@ -186,17 +182,13 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-6">
+                <div class="col-lg-6">
                     <div class="blog_style">
                         <div class="full news_blog">
-                        <img src="../assets/images/charming/promotion_sale1.jpg" alt="#" />
+                        <img src="../assets/images/charming/promotion_sale1.jpg" class="md-w-full" alt="#" />
                         </div>
                         <div class="full post_colum">
                         <ul>
-                            <!-- <li>Post By : Evonyee</li>
-                            <li><a href="#">Like <img src="../assets/images/like_btn.png" alt="#" /></a></li>
-                            <li><a href="#">Comment <img src="../assets/images/msg_btn.png" alt="#" /></a></li>
-                            <li><a href="#">Share <img src="../assets/images/share_btn.png" alt="#" /></a></li> -->
                         </ul>
                         </div>
                         <div class="full">
@@ -221,7 +213,7 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-md-6">
+                <div class="col-lg-6 home_contact">
                     <form action="#">
                         <fieldset>
                         <legend></legend>
@@ -247,7 +239,7 @@
                         </fieldset>
                     </form>
                 </div>
-                <div class="col-md-6 p-relative">
+                <div class="col-lg-6 p-relative">
                     <div class="full back_blog">
                         <img class="img-responsive" src="../assets/images/charming/call_me_back.jpg" alt="#" />
                     </div>
