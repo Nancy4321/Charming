@@ -57,7 +57,7 @@ export default {
       //fallback loader timer
       timer = setTimeout(() => {
         this.isLoading = false;
-      }, 5000);
+      }, 120000);
     },
     whenCancelled() {
       clearTimeout(timer);
