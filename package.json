@@ -11,6 +11,7 @@
     "@vue/cli-service": "^5.0.8",
     "core-js": "^3.30.2",
     "glob-parent": "5.1.2",
+    "netlify-plugin-search-index": "^0.1.6",
     "vue": "^2.7.14",
     "vue-loading-overlay": "^3.4.3",
     "vue-router": "^2.8.1",
