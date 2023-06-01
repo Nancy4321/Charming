@@ -54,6 +54,7 @@
                   </div>
                   <div class="full">
                      <form id="contactform" class="form_main" action="https://formsubmit.io/send/callonjayb@gmail.com" method="POST">
+                        <input name="_redirect" type="hidden" id="name" value="https://charming-fascinators.netlify.app/">
                          <fieldset>
                             <legend></legend>
                             <div class="row">
@@ -72,7 +73,7 @@
                                  </div>
                                  <input name="_formsubmit_id" type="text" style="display:none">
                                  <div class="full field center">
-                                    <button type="submit"><input value="Submit" type="submit" hidden>Send</button>
+                                    <button type="submit" v-on:click="sweetAlert"><input value="Submit" type="submit" hidden>Send</button>
                                  </div>
                               </div>
                             </div>
@@ -87,3 +88,19 @@
       <!-- end section -->
     </div>
 </template>
+
+<script>
+
+export default {
+   methods: {
+        sweetAlert() {
+         this.$swal({
+            icon: 'success',
+            title: 'Your submission was successful.',
+            timer: 10000
+         })
+      }
+   }
+}
+
+</script>

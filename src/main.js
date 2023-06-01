@@ -11,6 +11,8 @@ import Fascinators from './components/CatalogueList/Fascinators.vue';
 import HairPieces from './components/CatalogueList/HairPieces.vue';
 import BridalHairAccessories from './components/CatalogueList/BridalHairAcc.vue';
 import Hats from './components/CatalogueList/Hats.vue';
+import VueSweetalert2 from 'vue-sweetalert2';
+import 'sweetalert2/dist/sweetalert2.min.css';
 
 Vue.use(VueRouter);
 
@@ -33,6 +35,7 @@ const router = new VueRouter({
 });
 
 Vue.config.productionTip = false
+Vue.use(VueSweetalert2);
 Vue.mixin({
   mounted() {
     document.querySelector('base').setAttribute('href', '/catalogue/');

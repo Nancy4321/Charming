@@ -10,10 +10,10 @@
   "dependencies": {
     "core-js": "^3.30.2",
     "glob-parent": "5.1.2",
-    "sweetalert2": "^11.4.8",
     "vue": "^2.7.14",
     "vue-loading-overlay": "^3.4.3",
-    "vue-router": "^2.8.1"
+    "vue-router": "^2.8.1",
+    "vue-sweetalert2": "^5.0.5"
   },
   "eslintConfig": {
     "root": true,

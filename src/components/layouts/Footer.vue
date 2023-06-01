@@ -22,7 +22,7 @@ export default {
                                  <img src="../../assets/img/logo.png" alt="#" />
                               </div>
                               <div class="full">
-                                 <p>consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna strud exercitation</p>
+                                 <p>Charming Fascinators is a millinery that specializes in creating unique and elegant accessories for your hair.</p>
                               </div>
                            </div>
                            <div class="col-lg-3 col-md-6">
@@ -48,11 +48,11 @@ export default {
                                  <ul class="footer_link_intas">
                                     <li>
                                        <span><img src="../../assets/images/f_in_blog.png" alt="#" /></span>
-                                       <span>Consectetur Adipiscing</span>
+                                       <span>Unleash your inner fashionista with our trend-setting hair accessories.</span>
                                     </li>
                                     <li>
                                        <span><img src="../../assets/images/f_in_blog2.png" alt="#" /></span>
-                                       <span>Consectetur Adipiscing</span>
+                                       <span>Embrace a fresh, fashionable approach to your wedding day style.</span>
                                     </li>
                                  </ul>
                               </div>
@@ -62,16 +62,18 @@ export default {
                                  <h3>Subscribe</h3>
                               </div>
                               <div class="full footer_form">
-                                 <form>
+                                 <form id="contactform" action="https://formsubmit.io/send/callonjayb@gmail.com" method="POST">
+                                    <input name="_redirect" type="hidden" id="name" value="https://charming-fascinators.netlify.app/">
                                     <fieldset>
                                        <legend></legend>
                                        <div class="row">
                                           <div class="col-md-12">
                                              <div class="full">
-                                                <input type="email" placeholder="Your Email" name="_email" />
+                                                <input type="email" placeholder="Your Email" name="email" id="email" required/>
                                              </div>
+                                             <input name="_formsubmit_id" type="text" style="display:none">
                                              <div class="full">
-                                                <button>Subscribe</button>
+                                                <button type="submit" v-on:click="submitSweetAlert"><input value="Submit" type="submit" hidden>Subscribe</button>
                                              </div>
                                           </div>
                                        </div>
@@ -138,3 +140,18 @@ export default {
       <!-- end cpy -->
     </div>
 </template>
+<script>
+
+export default {
+   methods: {
+        submitSweetAlert() {
+         this.$swal({
+            icon: 'success',
+            title: 'Your submission was successful.',
+            timer: 10000
+         })
+      }
+   }
+}
+
+</script>

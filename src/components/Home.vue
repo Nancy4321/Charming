@@ -215,6 +215,7 @@
             <div class="row">
                 <div class="col-lg-6 home_contact">
                     <form id="contactform" action="https://formsubmit.io/send/callonjayb@gmail.com" method="POST">
+                        <input name="_redirect" type="hidden" id="name" value="https://charming-fascinators.netlify.app/">
                         <fieldset>
                         <legend></legend>
                         <div class="row">
@@ -231,8 +232,9 @@
                                 <div class="full fieldset_blog">
                                     <textarea placeholder="Message" name="comment" id="comment"></textarea>
                                 </div>
+                                <input name="_formsubmit_id" type="text" style="display:none">
                                 <div class="full fieldset_blog center">
-                                    <button type="submit"><input value="Submit" type="submit" hidden>Send</button>
+                                    <button type="submit" v-on:click="submitFormSweetAlert"><input value="Submit" type="submit" hidden>Send</button>
                                 </div>
                             </div>
                         </div>
@@ -330,3 +332,19 @@
         </section>
     </div>  
 </template>
+
+<script>
+
+export default {
+   methods: {
+        submitFormSweetAlert() {
+         this.$swal({
+            icon: 'success',
+            title: 'Your submission was successful.',
+            timer: 10000
+         })
+      }
+   }
+}
+
+</script>
