@@ -855,7 +855,7 @@ section .small_head h2 {
 
 .home_page2 .header .social_icons li a:hover,
 .home_page2 .header .social_icons li a:focus {
-    color: rgba(250, 61, 61, 0.5);
+    color: #fa3d3d;
 }
 
 .home_page2 .logo_circle img {
@@ -978,7 +978,7 @@ section .small_head h2 {
 }
 
 .sidenav a:hover {
-  color: rgba(250, 61, 61, 0.5);
+  color: #fa3d3d;
 }
 
 .sidenav .closebtn {
@@ -1209,7 +1209,7 @@ section .social_icons {
 
 .social_icons li a:hover,
 .social_icons li a:focus {
-    color: rgba(250, 61, 61, 0.5);
+    color: #fa3d3d;
 }
 
 .logo_circle img {
@@ -1225,7 +1225,7 @@ section .social_icons {
 
 .right_section_bottom_header a:hover,
 .right_section_bottom_header a:focus {
-    color: rgba(250, 61, 61, 0.5);
+    color: #fa3d3d;
 }
 
 
@@ -3117,8 +3117,8 @@ section .social_icons li {
 
 .social_icons_square ul li a:hover,
 .social_icons_square ul li a:focus {
-    color: rgba(250, 61, 61, 0.5);
-    border-color: rgba(250, 61, 61, 0.5);
+    color: #fa3d3d;
+    border-color: #fa3d3d;
 }
 
 .button_section_contsu {
@@ -8690,13 +8690,14 @@ form button:focus {
     padding-left: 20px;
     padding-right: 20px;
     height: 55px;
-    /* line-height: 55px; */
     text-align: center;
     text-transform: uppercase;
     font-weight: 600;
     margin: 20px auto 0;
     display: flex;
+    width: 80%;
     justify-content: center;
+    align-items: center;
     font-family: 'Poppins', sans-serif;
     font-size: 14px;
 }

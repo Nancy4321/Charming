@@ -22,42 +22,72 @@
                         <h3>Fascinators</h3>
                     </div>
                     <div class="row">
-                    <div class="col-lg-4 col-md-6">
-                        <div class="full decorate_blog">
-                            <img src="../../assets/images/sm1.png" alt="#" />
-                            <span class="decorate_blog_bt wwd_button">Home Decorate</span>
+                        <div class="col-lg-4 col-md-6">
+                            <div class="full decorate_blog cat_img">
+                                <img src="../../assets/pics/catalogue_images/cat_img01.png" alt="#" />
+                                <span class="decorate_blog_bt wwd_button">Fascinators</span>
+                            </div>
                         </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6">
-                        <div class="full decorate_blog">
-                            <img src="../../assets/images/sm2.png" alt="#" />
-                            <span class="decorate_blog_bt wwd_button">Lighting Decorate</span>
+                        <div class="col-lg-4 col-md-6">
+                            <div class="full decorate_blog cat_img">
+                                <img src="../../assets/pics/catalogue_images/cat_img03.png" alt="#" />
+                                <span class="decorate_blog_bt wwd_button">Fascinators</span>
+                            </div>
                         </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6">
-                        <div class="full decorate_blog">
-                            <img src="../../assets/images/sm3.png" alt="#" />
-                            <span class="decorate_blog_bt wwd_button">Home Decorate</span>
+                        <div class="col-lg-4 col-md-6">
+                            <div class="full decorate_blog cat_img">
+                                <img src="../../assets/pics/catalogue_images/cat_img05.png" alt="#" />
+                                <span class="decorate_blog_bt wwd_button">Fascinators</span>
+                            </div>
                         </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6">
-                        <div class="full decorate_blog">
-                            <img src="../../assets/images/sm2.png" alt="#" />
-                            <span class="decorate_blog_bt wwd_button">Office Decorate</span>
+                        <div class="col-lg-4 col-md-6">
+                            <div class="full decorate_blog cat_img">
+                                <img src="../../assets/pics/catalogue_images/cat_img06.png" alt="#" />
+                                <span class="decorate_blog_bt wwd_button">Fascinators</span>
+                            </div>
                         </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6">
-                        <div class="full decorate_blog">
-                            <img src="../../assets/images/sm3.png" alt="#" />
-                            <span class="decorate_blog_bt wwd_button">Furniture Decorate</span>
+                        <div class="col-lg-4 col-md-6">
+                            <div class="full decorate_blog cat_img">
+                                <img src="../../assets/pics/catalogue_images/cat_img17.png" alt="#" />
+                                <span class="decorate_blog_bt wwd_button">Fascinators</span>
+                            </div>
                         </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6">
-                        <div class="full decorate_blog">
-                            <img src="../../assets/images/sm4.png" alt="#" />
-                            <span class="decorate_blog_bt wwd_button">Lighting Decorate</span>
+                        <div class="col-lg-4 col-md-6">
+                            <div class="full decorate_blog cat_img">
+                                <img src="../../assets/pics/catalogue_images/cat_img18.png" alt="#" />
+                                <span class="decorate_blog_bt wwd_button">Fascinators</span>
+                            </div>
                         </div>
-                    </div>
+                        <div class="col-lg-4 col-md-6">
+                            <div class="full decorate_blog cat_img">
+                                <img src="../../assets/pics/catalogue_images/cat_img19.png" alt="#" />
+                                <span class="decorate_blog_bt wwd_button">Fascinators</span>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6">
+                            <div class="full decorate_blog cat_img">
+                                <img src="../../assets/pics/catalogue_images/cat_img20.png" alt="#" />
+                                <span class="decorate_blog_bt wwd_button">Fascinators</span>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6">
+                            <div class="full decorate_blog cat_img">
+                                <img src="../../assets/pics/catalogue_images/cat_img22.png" alt="#" />
+                                <span class="decorate_blog_bt wwd_button">Fascinators</span>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6">
+                            <div class="full decorate_blog cat_img">
+                                <img src="../../assets/pics/catalogue_images/cat_img25.png" alt="#" />
+                                <span class="decorate_blog_bt wwd_button">Fascinators</span>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6">
+                            <div class="full decorate_blog cat_img">
+                                <img src="../../assets/pics/catalogue_images/cat_img29.png" alt="#" />
+                                <span class="decorate_blog_bt wwd_button">Fascinators</span>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>

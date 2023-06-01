@@ -19,38 +19,134 @@
             <div class="row">
                <div class="col-lg-4 col-md-6">
                   <div class="full decorate_blog cat_img">
-                     <img src="../assets/images/sm1.png" alt="#" />
-                     <span class="decorate_blog_bt wwd_button">Home Decorate</span>
+                     <img src="../assets/pics/catalogue_images/cat_img01.png" alt="#" />
+                     <span class="decorate_blog_bt wwd_button">Fascinators</span>
                   </div>
                </div>
                <div class="col-lg-4 col-md-6">
                   <div class="full decorate_blog cat_img">
-                     <img src="../assets/images/sm2.png" alt="#" />
-                     <span class="decorate_blog_bt wwd_button">Lighting Decorate</span>
+                     <img src="../assets/pics/catalogue_images/cat_img02.png" alt="#" />
+                     <span class="decorate_blog_bt wwd_button">Hats</span>
                   </div>
                </div>
                <div class="col-lg-4 col-md-6">
                   <div class="full decorate_blog cat_img">
-                     <img src="../assets/images/sm3.png" alt="#" />
-                     <span class="decorate_blog_bt wwd_button">Home Decorate</span>
+                     <img src="../assets/pics/catalogue_images/cat_img03.png" alt="#" />
+                     <span class="decorate_blog_bt wwd_button">Fascinators</span>
                   </div>
                </div>
                <div class="col-lg-4 col-md-6">
                   <div class="full decorate_blog cat_img">
-                     <img src="../assets/images/sm2.png" alt="#" />
-                     <span class="decorate_blog_bt wwd_button">Office Decorate</span>
+                     <img src="../assets/pics/catalogue_images/cat_img05.png" alt="#" />
+                     <span class="decorate_blog_bt wwd_button">Fascinators</span>
                   </div>
                </div>
                <div class="col-lg-4 col-md-6">
                   <div class="full decorate_blog cat_img">
-                     <img src="../assets/images/sm3.png" alt="#" />
-                     <span class="decorate_blog_bt wwd_button">Furniture Decorate</span>
+                     <img src="../assets/pics/catalogue_images/cat_img06.png" alt="#" />
+                     <span class="decorate_blog_bt wwd_button">Fascinators</span>
                   </div>
                </div>
                <div class="col-lg-4 col-md-6">
                   <div class="full decorate_blog cat_img">
-                     <img src="../assets/images/sm4.png" alt="#" />
-                     <span class="decorate_blog_bt wwd_button">Lighting Decorate</span>
+                     <img src="../assets/pics/catalogue_images/cat_img08.png" alt="#" />
+                     <span class="decorate_blog_bt wwd_button">Hats</span>
+                  </div>
+               </div>
+               <div class="col-lg-4 col-md-6">
+                  <div class="full decorate_blog cat_img">
+                     <img src="../assets/pics/catalogue_images/cat_img17.png" alt="#" />
+                     <span class="decorate_blog_bt wwd_button">Fascinators</span>
+                  </div>
+               </div>
+               <div class="col-lg-4 col-md-6">
+                  <div class="full decorate_blog cat_img">
+                     <img src="../assets/pics/catalogue_images/cat_img18.png" alt="#" />
+                     <span class="decorate_blog_bt wwd_button">Fascinators</span>
+                  </div>
+               </div>
+               <div class="col-lg-4 col-md-6">
+                  <div class="full decorate_blog cat_img">
+                     <img src="../assets/pics/catalogue_images/cat_img19.png" alt="#" />
+                     <span class="decorate_blog_bt wwd_button">Fascinators</span>
+                  </div>
+               </div>
+               <div class="col-lg-4 col-md-6">
+                  <div class="full decorate_blog cat_img">
+                     <img src="../assets/pics/catalogue_images/cat_img20.png" alt="#" />
+                     <span class="decorate_blog_bt wwd_button">Fascinators</span>
+                  </div>
+               </div>
+               <div class="col-lg-4 col-md-6">
+                  <div class="full decorate_blog cat_img">
+                     <img src="../assets/pics/catalogue_images/cat_img22.png" alt="#" />
+                     <span class="decorate_blog_bt wwd_button">Fascinators</span>
+                  </div>
+               </div>
+               <div class="col-lg-4 col-md-6">
+                  <div class="full decorate_blog cat_img">
+                     <img src="../assets/pics/catalogue_images/cat_img23.png" alt="#" />
+                     <span class="decorate_blog_bt wwd_button">Bridal Hair Accessories</span>
+                  </div>
+               </div>
+               <div class="col-lg-4 col-md-6">
+                  <div class="full decorate_blog cat_img">
+                     <img src="../assets/pics/catalogue_images/cat_img24.png" alt="#" />
+                     <span class="decorate_blog_bt wwd_button">Bridal Hair Accessories</span>
+                  </div>
+               </div>
+               <div class="col-lg-4 col-md-6">
+                  <div class="full decorate_blog cat_img">
+                     <img src="../assets/pics/catalogue_images/cat_img25.png" alt="#" />
+                     <span class="decorate_blog_bt wwd_button">Fascinators</span>
+                  </div>
+               </div>
+               <div class="col-lg-4 col-md-6">
+                  <div class="full decorate_blog cat_img">
+                     <img src="../assets/pics/catalogue_images/cat_img26.png" alt="#" />
+                     <span class="decorate_blog_bt wwd_button">Headbands</span>
+                  </div>
+               </div>
+               <div class="col-lg-4 col-md-6">
+                  <div class="full decorate_blog cat_img">
+                     <img src="../assets/pics/catalogue_images/cat_img29.png" alt="#" />
+                     <span class="decorate_blog_bt wwd_button">Fascinators</span>
+                  </div>
+               </div>
+               <div class="col-lg-4 col-md-6">
+                  <div class="full decorate_blog cat_img">
+                     <img src="../assets/pics/catalogue_images/cat_img27.png" alt="#" />
+                     <span class="decorate_blog_bt wwd_button">Hats</span>
+                  </div>
+               </div>
+               <div class="col-lg-4 col-md-6">
+                  <div class="full decorate_blog cat_img">
+                     <img src="../assets/pics/catalogue_images/cat_img28.png" alt="#" />
+                     <span class="decorate_blog_bt wwd_button">Hats</span>
+                  </div>
+               </div>
+               <div class="col-lg-4 col-md-6">
+                  <div class="full decorate_blog cat_img">
+                     <img src="../assets/pics/catalogue_images/cat_img31.png" alt="#" />
+                     <span class="decorate_blog_bt wwd_button">Headbands</span>
+                  </div>
+               </div>
+               <div class="col-lg-4 col-md-6">
+                  <div class="full decorate_blog cat_img">
+                     <img src="../assets/pics/catalogue_images/cat_img33.png" alt="#" />
+                     <span class="decorate_blog_bt wwd_button">Bridal Hair Accessories</span>
+                  </div>
+               </div>
+               <div class="col-lg-4 col-md-6">
+                  <div class="full decorate_blog cat_img">
+                     <img src="../assets/pics/catalogue_images/cat_img32.png" alt="#" />
+                     <span class="decorate_blog_bt wwd_button">Headbands</span>
+                  </div>
+               </div>
+               <div class="col-lg-4 col-md-6">
+                  <div class="full decorate_blog cat_img">
+                     <img src="../assets/pics/catalogue_images/cat_img34.png" alt="#" />
+                     <span class="decorate_blog_bt wwd_button">Headbands</span>
                   </div>
                </div>
             </div>

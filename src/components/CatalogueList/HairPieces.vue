@@ -19,45 +19,33 @@
             <div class="row">
                <div class="col-md-12">
                     <div class="full heading_s1 text_align_center">
-                        <h3>Hair Bands</h3>
+                        <h3>Headbands</h3>
                     </div>
                     <div class="row">
-                    <div class="col-lg-4 col-md-6">
-                        <div class="full decorate_blog">
-                            <img src="../../assets/images/sm1.png" alt="#" />
-                            <span class="decorate_blog_bt wwd_button">Home Decorate</span>
+                        <div class="col-lg-4 col-md-6">
+                            <div class="full decorate_blog cat_img">
+                                <img src="../../assets/pics/catalogue_images/cat_img26.png" alt="#" />
+                                <span class="decorate_blog_bt wwd_button">Headbands</span>
+                            </div>
                         </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6">
-                        <div class="full decorate_blog">
-                            <img src="../../assets/images/sm2.png" alt="#" />
-                            <span class="decorate_blog_bt wwd_button">Lighting Decorate</span>
+                        <div class="col-lg-4 col-md-6">
+                            <div class="full decorate_blog cat_img">
+                                <img src="../../assets/pics/catalogue_images/cat_img31.png" alt="#" />
+                                <span class="decorate_blog_bt wwd_button">Headbands</span>
+                            </div>
                         </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6">
-                        <div class="full decorate_blog">
-                            <img src="../../assets/images/sm3.png" alt="#" />
-                            <span class="decorate_blog_bt wwd_button">Home Decorate</span>
+                        <div class="col-lg-4 col-md-6">
+                            <div class="full decorate_blog cat_img">
+                                <img src="../../assets/pics/catalogue_images/cat_img32.png" alt="#" />
+                                <span class="decorate_blog_bt wwd_button">Headbands</span>
+                            </div>
                         </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6">
-                        <div class="full decorate_blog">
-                            <img src="../../assets/images/sm2.png" alt="#" />
-                            <span class="decorate_blog_bt wwd_button">Office Decorate</span>
+                        <div class="col-lg-4 col-md-6">
+                            <div class="full decorate_blog cat_img">
+                                <img src="../../assets/pics/catalogue_images/cat_img34.png" alt="#" />
+                                <span class="decorate_blog_bt wwd_button">Headbands</span>
+                            </div>
                         </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6">
-                        <div class="full decorate_blog">
-                            <img src="../../assets/images/sm3.png" alt="#" />
-                            <span class="decorate_blog_bt wwd_button">Furniture Decorate</span>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6">
-                        <div class="full decorate_blog">
-                            <img src="../../assets/images/sm4.png" alt="#" />
-                            <span class="decorate_blog_bt wwd_button">Lighting Decorate</span>
-                        </div>
-                    </div>
                     </div>
                 </div>
             </div>

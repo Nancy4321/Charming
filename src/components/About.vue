@@ -96,7 +96,7 @@
             <div class="col-lg-5">
                <div class="full heading_s1">
                   <h3>Charming<br/>Fascinators<br/>Facinating You</h3>
-                  <p>choose from our wide range of hats, beaded tiaras, hair bands etc. </p>
+                  <p>choose from our wide range of hats, beaded tiaras, headbands etc. </p>
                </div>
                <div class="full">
                   <a class="read_more_bt" href="/contact-us">Order Now</a>
@@ -131,7 +131,7 @@
             <div class="col-lg-3 col-md-6">
                <div class="full decorate_blog">
                   <img src="../assets/images/charming/sm/sm3.jpg" alt="#" />
-                  <a class="decorate_blog_bt" href="/catalogue/hair-bands">Hair Bands</a>
+                  <a class="decorate_blog_bt" href="/catalogue/headbands">Headbands</a>
                </div>
             </div>
       </div>

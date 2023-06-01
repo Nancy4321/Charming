@@ -92,7 +92,7 @@
                 <div class="col-lg-3 col-md-6">
                     <div class="full decorate_blog">
                         <img src="../assets/images/charming/sm/sm3.jpg" alt="#" />
-                        <a class="decorate_blog_bt" href="/catalogue/hair-bands">Hair Bands</a>
+                        <a class="decorate_blog_bt" href="/catalogue/headbands">Headbands</a>
                     </div>
                 </div>
             </div>
@@ -214,7 +214,7 @@
             </div>
             <div class="row">
                 <div class="col-lg-6 home_contact">
-                    <form id="contactform" action="https://formsubmit.io/send/37ba06fa-60bc-4545-910d-412c6d055696" method="POST">
+                    <form id="contactform" action="https://formsubmit.io/send/callonjayb@gmail.com" method="POST">
                         <fieldset>
                         <legend></legend>
                         <div class="row">

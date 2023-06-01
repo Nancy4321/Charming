@@ -47,9 +47,18 @@ span.decorate_blog_bt:hover {
     margin-bottom: 150px;
 }
 
+.c_sm {
+    margin-bottom: 30px;
+}
+
 #inner_pade .full.decorate_blog.cat_img {
     max-width: 345px;
+    max-height: 345px;
 }
+
+/* #inner_pade .full.decorate_blog.cat_img img{
+    height: 345px;
+} */
 
 /* ----------------------------------------
                 Header

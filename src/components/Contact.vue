@@ -53,7 +53,7 @@
                      <p>Thank you for your interest in our products. Please leave a message<br> with your order details and we will get back to you as soon as possible.</p>
                   </div>
                   <div class="full">
-                     <form id="contactform" class="form_main" action="https://formsubmit.io/send/37ba06fa-60bc-4545-910d-412c6d055696" method="POST">
+                     <form id="contactform" class="form_main" action="https://formsubmit.io/send/callonjayb@gmail.com" method="POST">
                          <fieldset>
                             <legend></legend>
                             <div class="row">

@@ -22,42 +22,24 @@
                         <h3>Bridal Hair Accessories</h3>
                     </div>
                     <div class="row">
-                    <div class="col-lg-4 col-md-6">
-                        <div class="full decorate_blog">
-                            <img src="../../assets/images/sm1.png" alt="#" />
-                            <span class="decorate_blog_bt wwd_button">Home Decorate</span>
+                        <div class="col-lg-4 col-md-6">
+                            <div class="full decorate_blog cat_img">
+                                <img src="../../assets/pics/catalogue_images/cat_img23.png" alt="#" />
+                                <span class="decorate_blog_bt wwd_button">Bridal Hair Accessories</span>
+                            </div>
                         </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6">
-                        <div class="full decorate_blog">
-                            <img src="../../assets/images/sm2.png" alt="#" />
-                            <span class="decorate_blog_bt wwd_button">Lighting Decorate</span>
+                        <div class="col-lg-4 col-md-6">
+                            <div class="full decorate_blog cat_img">
+                                <img src="../../assets/pics/catalogue_images/cat_img24.png" alt="#" />
+                                <span class="decorate_blog_bt wwd_button">Bridal Hair Accessories</span>
+                            </div>
                         </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6">
-                        <div class="full decorate_blog">
-                            <img src="../../assets/images/sm3.png" alt="#" />
-                            <span class="decorate_blog_bt wwd_button">Home Decorate</span>
+                        <div class="col-lg-4 col-md-6">
+                            <div class="full decorate_blog cat_img">
+                                <img src="../../assets/pics/catalogue_images/cat_img33.png" alt="#" />
+                                <span class="decorate_blog_bt wwd_button">Bridal Hair Accessories</span>
+                            </div>
                         </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6">
-                        <div class="full decorate_blog">
-                            <img src="../../assets/images/sm2.png" alt="#" />
-                            <span class="decorate_blog_bt wwd_button">Office Decorate</span>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6">
-                        <div class="full decorate_blog">
-                            <img src="../../assets/images/sm3.png" alt="#" />
-                            <span class="decorate_blog_bt wwd_button">Furniture Decorate</span>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6">
-                        <div class="full decorate_blog">
-                            <img src="../../assets/images/sm4.png" alt="#" />
-                            <span class="decorate_blog_bt wwd_button">Lighting Decorate</span>
-                        </div>
-                    </div>
                     </div>
                 </div>
             </div>

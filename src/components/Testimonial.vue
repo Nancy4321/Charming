@@ -25,7 +25,7 @@
                         <div class="full">
                         <div class="client_slider_main2">
                             <div id="testimonial2" class="client_slider_main owl-carousel owl-theme">
-                                <div class="item">
+                                <div class="item c_sm">
                                     <div class="row">
                                     <div class="col-md-3">
                                         <div class="full">
@@ -45,7 +45,7 @@
                                     </div>
                                     </div>
                                 </div>
-                                <div class="item">
+                                <div class="item c_sm">
                                     <div class="row">
                                     <div class="col-md-3">
                                         <div class="full">
@@ -65,7 +65,7 @@
                                     </div>
                                     </div>
                                 </div>
-                                <div class="item">
+                                <div class="item c_sm">
                                     <div class="row">
                                     <div class="col-md-3">
                                         <div class="full">

@@ -24,7 +24,7 @@ const routes = [
   { path: '/catalogue/fascinators', component: Fascinators },
   { path: '/catalogue/hats', component: Hats },
   { path: '/catalogue/bridal-hair-accessories', component: BridalHairAccessories },
-  { path: '/catalogue/hair-bands', component: HairPieces },
+  { path: '/catalogue/headbands', component: HairPieces },
 ];
 
 const router = new VueRouter({
